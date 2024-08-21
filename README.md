@@ -20,5 +20,3 @@ This is a simple text-based Hangman game implemented in Python. The player guess
 ## Files
 - `hangman.py`: The main Python script containing the Hangman game logic.
 - `README.md`: This file, providing an overview of the game and instructions for running it.
-
-## Example Output
